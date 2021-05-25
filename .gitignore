@@ -1,0 +1,19 @@
+# Hidden files
+.*
+
+# Temporary files
+*~
+
+# Git
+!.git*
+
+# EditorConfig
+!.editorconfig
+
+# Luacheck
+!.luacheckrc
+
+# IntelliJ Idea
+*.iml
+*.ipr
+*.iws

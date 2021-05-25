@@ -1,0 +1,14 @@
+﻿## Interface: 90005
+## Interface-BCC: 20501
+## Interface-Classic: 11307
+
+## Title: Masque: Naowh
+## Notes: Naowh skin for Masque.
+
+## Author: Michael Bull
+## Dependencies: Masque
+
+## X-Website: https://github.com/michaelbull/Masque_Naowh
+## X-Category: Interface Enhancements
+
+Skins.lua
