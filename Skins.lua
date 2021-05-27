@@ -131,13 +131,4 @@ Masque:AddSkin("Naowh",{
     Width = 38,
     Height = 30,
   },
-
-  -- Aura Buttons
-
-  -- The text that displays the remaining time of an aura.
-  Duration = {
-    Width = 38,
-    Height = 10,
-    OffsetY = -2,
-  },
 })
